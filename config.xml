@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+xmlns:gap = "http://phonegap.com/ns/1.0"
+id = "com.phonegap.example"
+versioncode = "10"
+version = "1.0.0">
+
+<!-- VersionCode is optional and Android only -->
+
+<name>Vibracion y Beepear</name>
+
+<description>
+Aplicacion que hace que el movil vibre y beepe
+</description>
+
+<preference name="phonegap-version" value="3.1.0"/>
+
+<author href="https://build.phonegap.com" email="support@phonegap.com">
+Cinthya Morales De Jesus
+</author>
+
+<gap:plugin name="org.apache.cordova.dialogs" version="0.2.6"/>
+</widget>
